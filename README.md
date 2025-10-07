@@ -103,12 +103,8 @@ This project is licensed under the MIT License — see the LICENSE
  file for details.
 
 📬 Contact
-
 Mohit Kumar
-📍 Noida, India
 ✉️ mohitkr.h@gmail.com
 
-🔗 LinkedIn
- | GitHub
-
+🔗 LinkedIn | GitHub
 An integrated view of LNG market dynamics — where imports, storage, and global benchmarks converge to shape Europe’s energy pricing.
