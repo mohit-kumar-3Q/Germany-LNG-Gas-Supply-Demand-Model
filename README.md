@@ -81,21 +81,7 @@ Feature_Importance_SHAP.png
 Feature importance and SHAP analysis reveal:
 - **Storage_Fill_Rate** and **Imports_Momentum** as the most influential drivers of TTF  
 - Oil-linked benchmarks (Brent, JKM) contribute to longer-lag structural trends  
-- Weather variables (Temperature_Anomaly) show moderate short-term elasticity  
-
-![](Feature_Importance_SHAP.png)
-
----
-
-
----
-
-## 🧠 Interpretability (SHAP)  
-
-Feature importance and SHAP analysis reveal:
-- **Storage_Fill_Rate** and **Imports_Momentum** as the most influential drivers of TTF  
-- Oil-linked benchmarks (Brent, JKM) contribute to longer-lag structural trends  
-- Weather variables (Temperature_Anomaly) show moderate short-term elasticity  
+- Weather variables (Temperature_Anomaly) show moderate short-term elasticity   
 
 🧾 License
 
