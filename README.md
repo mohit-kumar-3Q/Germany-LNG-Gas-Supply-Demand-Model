@@ -27,7 +27,7 @@ The project focuses on **Net Supply Position (NSP)** as the target variable and 
 - **Eurostat:** Gas imports, consumption, production, and Heating Degree Days (HDD)  
 - **AGSI:** LNG terminal flows and storage levels  
 - **EIA:** US LNG exports, Henry Hub prices  
-- **Global Price Benchmarks:** TTF, JKM, Brent   
+- **Investing.com:** TTF, JKM, Brent   
 
 **Time Period:** October 2017 – March 2025 (monthly frequency)  
 **Dataset Size:** 90 months, 24 reduced features (19 lag/rolling + 5 seasonal)  
