@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # 🇩🇪 Supply–Demand & Pricing Modelling of German Gas & LNG  
 
 **Author:** Mohit Kumar  
