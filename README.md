@@ -67,7 +67,7 @@ Comprehensive SHAP analysis revealing deep market behavior:
 
 | Model | R² | Improvement vs Baseline | Business Readiness |
 |-------|-----|------------------------|--------------------|
-| **Ensemble (Final)** | **0.761** | **+0.977** | ✅ Production Ready |
+| **Ensemble (Final)** | **0.761** | **+0.977** | ✅ |
 | LightGBM Only | 0.676 | +0.892 | ✅ |
 | Seasonal Naive | -0.216 | Baseline | ⚠️ |
 
