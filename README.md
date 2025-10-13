@@ -118,6 +118,6 @@ Achievement Highlights
 ---
 
 ### Usage & Deployment
+```bash
 git clone https://github.com/mohit-kumar-3Q/german-gas-lng-market-model.git
 cd german-gas-lng-market-model
-
