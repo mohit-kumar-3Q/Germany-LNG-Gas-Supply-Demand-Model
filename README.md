@@ -16,7 +16,7 @@ The model integrates multiple open data sources into a unified analytical framew
 - **Ensemble R² = 0.761** — Major improvement over baseline models  
 - **SHAP-Interpretable** — Clear driver identification and impact quantification  
 - **Forecast-Driven Architecture** — Leverages weather and price forecasts  
-- **Production-Ready** — Robust scenario testing and validated outputs  
+- **Validated and Robust** — Robust scenario testing and validated outputs  
 
 ---
 
@@ -113,7 +113,7 @@ Achievement Highlights
 - 76.1% variance explained in Net Supply Position
 - 718 MMcm weather impact quantified via SHAP
 - +81 MMcm cold snap response verified
-- Resilient and production-ready architecture
+- Resilient and robust architecture
 
 ---
 
